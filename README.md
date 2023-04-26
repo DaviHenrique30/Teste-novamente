@@ -10,6 +10,7 @@ Projeto da matéria de Códigos de Alta Performance Web. Criação de um site fo
 * NodeJS
 * Figma
 * AdonisJS
+* TypeScript
 
 # Funcionalidades
 O usuário será capaz de criar uma conta no site e a partir dela postar uma imagem ou texto, será capaz também de alterar a imagem de perfil e acessar perfis alheios e visualizar suas postagens.
